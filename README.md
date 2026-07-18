@@ -44,6 +44,10 @@ small fraction of the parameters at some accuracy cost.
 A learning-rate x epochs sweep (lr in {1e-4, 5e-4, 1e-3}, epochs in {7, 9}) for both
 DistilBERT and RoBERTa is in [`logs/`](logs/).
 
+Dev and test accuracy across the sweep:
+
+<img src="images/accuracy_comparison.jpg" alt="Dev and test accuracy comparison across learning rates and epochs" width="700">
+
 Full training run (DistilBERT):
 
 <img src="images/base_full.png" alt="Full training run" width="450">
