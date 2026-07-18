@@ -115,4 +115,4 @@ sweeps, GPU training on a Slurm HPC cluster, PyTorch.
 Built for JHU CS 601.471/671. The data pipeline, argument parsing, and model
 scaffolding were provided as course starter code; the training loops, evaluation
 functions, PEFT forward passes, and optimizers were implemented as part of the
-assignment. Datasets: [BoolQ](https://huggingface.co/datasets/boolq).
+assignment. Datasets: [BoolQ](https://huggingface.co/datasets/google/boolq).
